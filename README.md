@@ -9,6 +9,8 @@
 >Exercício
 
 Projeto: Reconstrução de um layout em HTML/CSS.<br>
+Layout responsivo.<br/>
+Feito junto com o professor.
 
 [Clique aqui para acessar o site.](https://scgui.github.io/AWAX/)
 
